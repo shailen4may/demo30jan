@@ -8,6 +8,7 @@ public class MaleShirtTest
 			public void ColourTest()
 			{
 				System.out.println("White colour shirt");
+				System.out.println("Black colour shirt");
 			}
 
 } 
